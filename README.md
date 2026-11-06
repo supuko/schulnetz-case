@@ -25,7 +25,7 @@ It's not in any store, so you load it manually.
 
 Works in Chrome, Edge, and Brave.
 
-The official Firefox addon:
+The official Firefox add-on:
 https://addons.mozilla.org/en-US/firefox/addon/schulnetz-case-opening/
 
 ## Settings
