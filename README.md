@@ -23,7 +23,10 @@ It's not in any store, so you load it manually.
 4. Click "Load unpacked" and pick the folder
 5. Open your grades in SchulNetz
 
-Works in Chrome, Edge and Brave. Firefox doesn't work yet.
+Works in Chrome, Edge, and Brave.
+
+The official Firefox addon:
+https://addons.mozilla.org/en-US/firefox/addon/schulnetz-case-opening/
 
 ## Settings
 
